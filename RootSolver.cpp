@@ -7,7 +7,7 @@
 
 using namespace std;
 
-# include "zero_rc.hpp"
+# include "RootSolver.h"
 
 //****************************************************************************80
 
